@@ -1,0 +1,280 @@
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1008190/?keyword=accounting&mode=location
+KPMG India, Executive- Accounting, Finance
+skills: accounting,finance
+Exp : [0, 15]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1008189/?keyword=accounting&mode=location
+KPMG India, Senior Executive-Accounting & IGAAP, Finance
+skills: finance
+Exp : [4, 10]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010760/?keyword=accounting&mode=location
+Managed Services Finance Advisory Assistant Manager
+skills: accounting,advisory,finance
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010761/?keyword=accounting&mode=location
+Managed Services Finance Managed Services Assistant Manager
+skills: accounting,finance
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10011233/?keyword=accounting&mode=location
+Managed Services Finance Managed Services Executive
+skills: accounting,finance,financial reporting,reporting
+Exp : [0, 15]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1009609/?keyword=accounting&mode=location
+Managed Services Finance Managed Services Senior
+skills: accounting,automation,data management,employee engagement,erp,finance,financial planning,forecasting,master data management,mis,mis reporting,presentation,process optimization,procure to pay,project management,reporting,six sigma,variance analysis,vendor
+Exp : [6, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1008855/?keyword=accounting&mode=location
+Digital Trust Consulting Implementation Associate Consultant
+skills: consultant,implementation
+Exp : [0, 15]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10011073/?keyword=accounting&mode=location
+Technology Enablement SAP-FI Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10011084/?keyword=accounting&mode=location
+Technology Enablement SAP-FI Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10011053/?keyword=accounting&mode=location
+Technology Enablement SAP-FI Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010858/?keyword=accounting&mode=location
+Technology Enablement SAP-FI Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1008806/?keyword=accounting&mode=location
+Managed Services Finance Advisory Senior
+skills: accounting,advisory,finance,operations,process development,reporting
+Exp : [4, 10]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10011218/?keyword=accounting&mode=location
+Managed Services Finance Managed Services Senior
+skills: finance
+Exp : [4, 5]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10011217/?keyword=accounting&mode=location
+Managed Services Finance Managed Services Analyst
+skills: finance
+Exp : [4, 5]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010902/?keyword=accounting&mode=location
+Technology Enablement SAP-FSCM Assistant Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010899/?keyword=accounting&mode=location
+Technology Enablement SAP-FSCM Assistant Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010857/?keyword=accounting&mode=location
+Technology Enablement SAP-CO Assistant Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010923/?keyword=accounting&mode=location
+Technology Enablement SAP-CO Assistant Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010961/?keyword=accounting&mode=location
+Technology Enablement SAP-CO Assistant Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010879/?keyword=accounting&mode=location
+Technology Enablement SAP-CO Assistant Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10011052/?keyword=accounting&mode=location
+Technology Enablement SAP-CO Senior
+skills: 
+Exp : [4, 10]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10011078/?keyword=accounting&mode=location
+Technology Enablement SAP-FSCM Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010898/?keyword=accounting&mode=location
+Technology Enablement SAP-FSCM Senior Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010910/?keyword=accounting&mode=location
+Technology Enablement SAP-CO Assistant Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1009612/?keyword=accounting&mode=location
+Managed Services Finance Managed Services Assistant Manager
+skills: accounting,automation,erp,finance,presentation,process optimization,six sigma
+Exp : [8, 10]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010188/?keyword=accounting&mode=location
+KPMG India, Corridor Support (Europe)-Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010822/?keyword=accounting&mode=location
+Technology Enablement SAP-CO Senior
+skills: 
+Exp : [4, 10]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1005965/?keyword=accounting&mode=location
+Managed Services Record 2 Report Senior
+skills: accounting,excel,sap
+Exp : [4, 7]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010969/?keyword=accounting&mode=location
+Technology Enablement SAP-FI Executive
+skills: 
+Exp : [0, 15]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1007167/?keyword=accounting&mode=location
+Managed Services Finance Advisory Senior
+skills: accounting,advisory,erp,excel,finance,sap
+Exp : [0, 25]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10011054/?keyword=accounting&mode=location
+Technology Enablement SAP-FI Assistant Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010968/?keyword=accounting&mode=location
+Technology Enablement SAP-FI Assistant Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010982/?keyword=accounting&mode=location
+Technology Enablement SAP-FI Assistant Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1003179/?keyword=accounting&mode=location
+Managed Services Core Managed Services Senior Manager
+skills: accounting,continuous improvement,designing,erp,finance,financial planning,forecasting,implementation,mis,mis reporting,operations,quality,reporting,team management,transformation
+Exp : [12, 16]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG10010859/?keyword=accounting&mode=location
+Technology Enablement SAP-FI Assistant Manager
+skills: 
+Exp : [4, 8]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1006553/?keyword=accounting&mode=location
+Managed Services Finance Managed Services Manager
+skills: accounting,finance,financial reporting,reporting,sap
+Exp : [5, 7]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1007714/?keyword=accounting&mode=location
+Managed Services Finance Managed Services Assistant Manager
+skills: accounting,finance,financial reporting,reporting,sap
+Exp : [4, 6]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1009620/?keyword=accounting&mode=location
+Managed Services Finance Advisory Assistant Manager
+skills: accounting,advisory,finance,financial reporting,reporting,sap
+Exp : [4, 6]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1009505/?keyword=accounting&mode=location
+Managed Services Finance Managed Services Senior
+skills: accounting,finance,financial reporting,reporting,sap
+Exp : [4, 6]
+Functional : 12
+
+
+https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/INTG1004165/?keyword=accounting&mode=location
+INTG1004165 CFO Advisory Services Finance Advisory Manager
+skills: accounting,advisory,erp,finance,financial reporting,oracle,reporting,sap
+Exp : [4, 6]
+Functional : 12
+
+
